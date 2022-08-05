@@ -1,0 +1,4 @@
+.DS_Store
+src/.phpunit.result.cache
+src/.vscode/
+src/composer.lock
